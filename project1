@@ -1,151 +1,301 @@
-Name,Genres
+Title,Genre
 "1.
 Dag II
-(2016)","['Action', ' Drama', ' War']"
+(2016)","Action, Drama, War"
 "2.
 Ο σκοτεινός ιππότης
-(2008)","['Action', ' Crime', ' Drama']"
+(2008)","Action, Crime, Drama"
 "3.
 Inception
-(2010)","['Action', ' Adventure', ' Sci-Fi']"
+(2010)","Action, Adventure, Sci-Fi"
 "4.
 Η αυτοκρατορία αντεπιτίθεται
-(1980)","['Action', ' Adventure', ' Fantasy']"
+(1980)","Action, Adventure, Fantasy"
 "5.
 Spider-Man: Μέσα στο αραχνο-σύμπαν
-(2018)","['Animation', ' Action', ' Adventure']"
+(2018)","Animation, Action, Adventure"
 "6.
 The Matrix
-(1999)","['Action', ' Sci-Fi']"
+(1999)","Action, Sci-Fi"
 "7.
 Ο πόλεμος των άστρων
-(1977)","['Action', ' Adventure', ' Fantasy']"
+(1977)","Action, Adventure, Fantasy"
 "8.
 Dangal
-(2016)","['Action', ' Biography', ' Drama']"
+(2016)","Action, Biography, Drama"
 "9.
 Εκδικητές: Ο πόλεμος της αιωνιότητας
-(2018)","['Action', ' Adventure', ' Fantasy']"
+(2018)","Action, Adventure, Fantasy"
 "10.
 Μονομάχος
-(2000)","['Action', ' Adventure', ' Drama']"
+(2000)","Action, Adventure, Drama"
 "11.
 Εξολοθρευτής 2: Μέρα κρίσης
-(1991)","['Action', ' Sci-Fi']"
+(1991)","Action, Sci-Fi"
 "12.
 Οι κυνηγοί της χαμένης κιβωτού
-(1981)","['Action', ' Adventure']"
+(1981)","Action, Adventure"
 "13.
 Vishwaroopam
-(2013)","['Action', ' Thriller']"
+(2013)","Action, Thriller"
 "14.
 Ο σκοτεινός ιππότης: Η επιστροφή
-(2012)","['Action', ' Thriller']"
+(2012)","Action, Thriller"
 "15.
 Oldboy
-(2003)","['Action', ' Drama', ' Mystery']"
+(2003)","Action, Drama, Mystery"
 "16.
 Aliens: Η επιστροφή
-(1986)","['Action', ' Adventure', ' Sci-Fi']"
+(1986)","Action, Adventure, Sci-Fi"
 "17.
 Baahubali 2: The Conclusion
-(2017)","['Action', ' Drama', ' Fantasy']"
+(2017)","Action, Drama, Fantasy"
 "18.
 1 - Nenokkadine
-(2014)","['Action', ' Mystery', ' Thriller']"
+(2014)","Action, Mystery, Thriller"
 "19.
 Batman Begins
-(2005)","['Action', ' Adventure', ' Thriller']"
+(2005)","Action, Adventure, Thriller"
 "20.
 Η επιστροφή των Τζεντάι
-(1983)","['Action', ' Adventure', ' Fantasy']"
+(1983)","Action, Adventure, Fantasy"
 "21.
 Yojimbo
-(1961)","['Action', ' Drama', ' Thriller']"
+(1961)","Action, Drama, Thriller"
 "22.
 Bahubali: The Beginning
-(2015)","['Action', ' Drama', ' Fantasy']"
+(2015)","Action, Drama, Fantasy"
 "23.
 Gangs of Wasseypur
-(2012)","['Action', ' Comedy', ' Crime']"
+(2012)","Action, Comedy, Crime"
 "24.
 Paan Singh Tomar
-(2012)","['Action', ' Biography', ' Crime']"
+(2012)","Action, Biography, Crime"
 "25.
 V for Vendetta
-(2005)","['Action', ' Drama', ' Sci-Fi']"
+(2005)","Action, Drama, Sci-Fi"
 "26.
 Hera Pheri
-(2000)","['Action', ' Comedy', ' Crime']"
+(2000)","Action, Comedy, Crime"
 "27.
 Ο Ιντιάνα Τζόουνς και η τελευταία σταυροφορία
-(1989)","['Action', ' Adventure', ' Fantasy']"
+(1989)","Action, Adventure, Fantasy"
 "28.
 Πολύ σκληρός για να πεθάνει
-(1988)","['Action', ' Thriller']"
+(1988)","Action, Thriller"
 "29.
 Ran
-(1985)","['Action', ' Drama']"
+(1985)","Action, Drama"
 "30.
 Sholay
-(1975)","['Action', ' Adventure', ' Comedy']"
+(1975)","Action, Adventure, Comedy"
 "31.
 Ο στρατηγός
-(1926)","['Action', ' Adventure', ' Comedy']"
+(1926)","Action, Adventure, Comedy"
 "32.
 Sherlock Jr.
-(1924)","['Action', ' Comedy', ' Romance']"
+(1924)","Action, Comedy, Romance"
 "33.
 Baby
-(I) (2015)","['Action', ' Thriller']"
+(I) (2015)","Action, Thriller"
 "34.
 Haider
-(2014)","['Action', ' Crime', ' Drama']"
+(2014)","Action, Crime, Drama"
 "35.
 Λόγκαν
-(2017)","['Action', ' Drama', ' Sci-Fi']"
+(2017)","Action, Drama, Sci-Fi"
 "36.
 Φύλακες του γαλαξία
-(2014)","['Action', ' Adventure', ' Comedy']"
+(2014)","Action, Adventure, Comedy"
 "37.
 Rush
-(I) (2013)","['Action', ' Biography', ' Drama']"
+(I) (2013)","Action, Biography, Drama"
 "38.
 Waar
-(2013)","['Action', ' Crime', ' Thriller']"
+(2013)","Action, Crime, Thriller"
 "39.
 Οι επίλεκτοι 2
-(2010)","['Action', ' Crime', ' Drama']"
+(2010)","Action, Crime, Drama"
 "40.
 Mad Max: Ο δρόμος της οργής
-(2015)","['Action', ' Adventure', ' Sci-Fi']"
+(2015)","Action, Adventure, Sci-Fi"
 "41.
 Nefes: Vatan Sagolsun
-(2009)","['Action', ' Drama', ' Thriller']"
+(2009)","Action, Drama, Thriller"
 "42.
 Πώς να εκπαιδεύσετε το δράκο σας
-(2010)","['Animation', ' Action', ' Adventure']"
+(2010)","Animation, Action, Adventure"
 "43.
 Οι επίλεκτοι
-(2007)","['Action', ' Crime', ' Drama']"
+(2007)","Action, Crime, Drama"
 "44.
 The Avengers
-(2012)","['Action', ' Adventure', ' Sci-Fi']"
+(2012)","Action, Adventure, Sci-Fi"
 "45.
 Taegukgi hwinalrimyeo
-(2004)","['Action', ' Drama', ' War']"
+(2004)","Action, Drama, War"
 "46.
 Μνήμες εγκλήματος
-(2003)","['Action', ' Crime', ' Drama']"
+(2003)","Action, Crime, Drama"
 "47.
 Kill Bill Volume 1
-(2003)","['Action', ' Crime', ' Thriller']"
+(2003)","Action, Crime, Thriller"
 "48.
 Sanjuro
-(1962)","['Action', ' Crime', ' Drama']"
+(1962)","Action, Crime, Drama"
 "49.
 Bajrangi Bhaijaan
-(2015)","['Action', ' Comedy', ' Drama']"
+(2015)","Action, Comedy, Drama"
 "50.
 Star Wars: Η δύναμη ξυπνάει
-(2015)","['Action', ' Adventure', ' Fantasy']"
+(2015)","Action, Adventure, Fantasy"
+"1.
+Ο άρχοντας των δαχτυλιδιών: Η επιστροφή του βασιλιά
+(2003)","Adventure, Drama, Fantasy"
+"2.
+Inception
+(2010)","Action, Adventure, Sci-Fi"
+"3.
+Ο άρχοντας των δαχτυλιδιών: Η συντροφιά του δαχτυλιδιού
+(2001)","Adventure, Drama, Fantasy"
+"4.
+Η αυτοκρατορία αντεπιτίθεται
+(1980)","Action, Adventure, Fantasy"
+"5.
+Spider-Man: Μέσα στο αραχνο-σύμπαν
+(2018)","Animation, Action, Adventure"
+"6.
+Ο άρχοντας των δαχτυλιδιών: Οι δύο πύργοι
+(2002)","Adventure, Drama, Fantasy"
+"7.
+Οι επτά σαμουράι
+(1954)","Adventure, Drama"
+"8.
+Interstellar
+(2014)","Adventure, Drama, Sci-Fi"
+"9.
+Ταξίδι στη χώρα των θαυμάτων
+(2001)","Animation, Adventure, Family"
+"10.
+Ο πόλεμος των άστρων
+(1977)","Action, Adventure, Fantasy"
+"11.
+Εκδικητές: Ο πόλεμος της αιωνιότητας
+(2018)","Action, Adventure, Fantasy"
+"12.
+Μονομάχος
+(2000)","Action, Adventure, Drama"
+"13.
+The Lion King
+(1994)","Animation, Adventure, Drama"
+"14.
+Επιστροφή στο μέλλον
+(1985)","Adventure, Comedy, Sci-Fi"
+"15.
+Οι κυνηγοί της χαμένης κιβωτού
+(1981)","Action, Adventure"
+"16.
+Coco
+(I) (2017)","Animation, Adventure, Comedy"
+"17.
+Γουόλ-Υ
+(2008)","Animation, Adventure, Family"
+"18.
+Πριγκίπισσα Μονονόκε
+(1997)","Animation, Adventure, Fantasy"
+"19.
+Aliens: Η επιστροφή
+(1986)","Action, Adventure, Sci-Fi"
+"20.
+Το υποβρύχιο
+(1981)","Adventure, Drama, Thriller"
+"21.
+Ψηλά στον ουρανό
+(2009)","Animation, Adventure, Comedy"
+"22.
+Toy Story 3
+(2010)","Animation, Adventure, Comedy"
+"23.
+Batman Begins
+(2005)","Action, Adventure, Thriller"
+"24.
+Άδωξοι μπάσταρδη
+(2009)","Adventure, Drama, War"
+"25.
+Η ιστορία των παιχνιδιών
+(1995)","Animation, Adventure, Comedy"
+"26.
+Η επιστροφή των Τζεντάι
+(1983)","Action, Adventure, Fantasy"
+"27.
+Οι ιππότες της ελεεινής τραπέζης
+(1975)","Adventure, Comedy, Fantasy"
+"28.
+2001: Η οδύσσεια του διαστήματος
+(1968)","Adventure, Sci-Fi"
+"29.
+Ο Λόρενς της Αραβίας
+(1962)","Adventure, Biography, Drama"
+"30.
+Στη σκιά των τεσσάρων γιγάντων
+(1959)","Adventure, Mystery, Thriller"
+"31.
+Τα μυαλά που κουβαλάς
+(I) (2015)","Animation, Adventure, Comedy"
+"32.
+Το κινούμενο κάστρο
+(2004)","Animation, Adventure, Family"
+"33.
+Ο Ιντιάνα Τζόουνς και η τελευταία σταυροφορία
+(1989)","Action, Adventure, Fantasy"
+"34.
+Ο Λέων της Αραβίας
+(1976)","Adventure, Biography, Drama"
+"35.
+Sholay
+(1975)","Action, Adventure, Comedy"
+"36.
+Η μεγάλη απόδραση
+(1963)","Adventure, Drama, History"
+"37.
+Η γέφυρα του ποταμού Κβάι
+(1957)","Adventure, Drama, War"
+"38.
+Ο θησαυρός της Σιέρρα Μάντρε
+(1948)","Adventure, Drama, Western"
+"39.
+Ο στρατηγός
+(1926)","Action, Adventure, Comedy"
+"40.
+Ο χρυσοθήρας
+(1925)","Adventure, Comedy, Drama"
+"41.
+The Grand Budapest Hotel
+(2014)","Adventure, Comedy, Drama"
+"42.
+Φύλακες του γαλαξία
+(2014)","Action, Adventure, Comedy"
+"43.
+Το τραγούδι της θάλασσας
+(2014)","Animation, Adventure, Drama"
+"44.
+Mad Max: Ο δρόμος της οργής
+(2015)","Action, Adventure, Sci-Fi"
+"45.
+Ο Χάρι Πότερ και οι κλήροι του θανάτου: Μέρος 2ο
+(2011)","Adventure, Drama, Fantasy"
+"46.
+Πώς να εκπαιδεύσετε το δράκο σας
+(2010)","Animation, Action, Adventure"
+"47.
+The Avengers
+(2012)","Action, Adventure, Sci-Fi"
+"48.
+Ταξίδι στην άγρια φύση
+(2007)","Adventure, Biography, Drama"
+"49.
+Ψάχνοντας τον Νέμο
+(2003)","Animation, Adventure, Comedy"
+"50.
+Μπαμπούλας Α.Ε.
+(2001)","Animation, Adventure, Comedy"
